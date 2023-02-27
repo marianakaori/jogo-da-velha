@@ -1,4 +1,6 @@
 import React, { useEffect, useState } from 'react';
+import ximg from './assets/X.svg'
+import oimg from './assets/Ellipse.svg'
 import './App.css';
 
 function App() {
@@ -76,7 +78,8 @@ function App() {
             className={`campo ${item}`}
             onClick={() => campoOnClick(index)}
           > 
-            {item}
+            {item === 'X' && <img className='ximg' src={ximg} alt="símbolo x" />}
+            {item === 'O' && <img className='oimg' src={oimg} alt="símbolo o" />}
           </div>
         )}
       </div>

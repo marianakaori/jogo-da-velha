@@ -1209,6 +1209,16 @@
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
 
+"@fontsource/abel@^4.5.7":
+  version "4.5.7"
+  resolved "https://registry.yarnpkg.com/@fontsource/abel/-/abel-4.5.7.tgz#dc6b639624ab5d28496d32288dad017287719def"
+  integrity sha512-BNhXYSF7piPi619Yv/dlWAhfe71ZNxxLqlXbjkcjSmsACTt57qnQBs3FHSgCeIqYj0yhipvTab5xz4KgM/1nNA==
+
+"@fontsource/abril-fatface@^4.5.9":
+  version "4.5.9"
+  resolved "https://registry.yarnpkg.com/@fontsource/abril-fatface/-/abril-fatface-4.5.9.tgz#a8e523d882e75fdd212275d5dd16b95493b7b87c"
+  integrity sha512-3q40X94isRtSFWFCaFtKW0nkYzmymVsqomiUTPGQuvlCq1A+RzT+39qtKWtuyJANOU5WhY/gI7ayszB5kYkupA==
+
 "@humanwhocodes/config-array@^0.11.8":
   version "0.11.8"
   resolved "https://registry.yarnpkg.com/@humanwhocodes/config-array/-/config-array-0.11.8.tgz#03595ac2075a4dc0f191cc2131de14fbd7d410b9"
@@ -4474,6 +4484,11 @@ follow-redirects@^1.0.0:
   version "1.15.2"
   resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.15.2.tgz#b460864144ba63f2681096f274c4e57026da2c13"
   integrity sha512-VQLG33o04KaQ8uYi2tVNbdrWp1QWxNNea+nmIB4EVM28v0hmP17z7aG1+wAkNzVq4KeXTq3221ye5qTJP91JwA==
+
+fontsource-abril-fatface@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/fontsource-abril-fatface/-/fontsource-abril-fatface-4.0.0.tgz#6585c4bcd1a95404f2d27f7a93108e91cd012917"
+  integrity sha512-wVMjb9LnFL+HnxzwPBKJ2VJKl7LP8PGcLOatWj+vOuWVVF/K172ng/xni4FigAqCiVKAFxW/ZjDBAHbQdpewyg==
 
 for-each@^0.3.3:
   version "0.3.3"

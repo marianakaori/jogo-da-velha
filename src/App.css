@@ -14,11 +14,13 @@
   font-family: 'Abril Fatface';
   margin: 0;
   margin-top: 40px;
+  font-size: 32px;
+  font-weight: 100;
 }
 
 .header p{
   font-family: 'Abel';
-  margin: 0;
+  margin-top: -10px;
   margin-bottom: 20px;
 }
 
