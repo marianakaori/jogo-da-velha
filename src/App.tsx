@@ -23,7 +23,6 @@ function App() {
   const verificaEmpate = () => {
     if(board.every(campo => campo !== "") && ganhador === "") {
       setIsEmpate(true)
-      console.log("aa")
     }
   }
 

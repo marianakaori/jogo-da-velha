@@ -26,7 +26,7 @@
   display: grid;
   grid-template-columns: repeat(3, 100px);
   grid-template-rows: repeat(3, 100px);
-  gap: 1rem;
+  gap: 0;
 }
 
 .campo{
@@ -34,4 +34,10 @@
   align-items: center;
   justify-content: center;
   background-color: aliceblue;
+  border: 2px solid black;
+  margin: 0 -2px -2px 0;
+}
+
+.campo:nth-child(odd){
+  background-color: #E073A1;
 }
